@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: group members
+title: people
 description: current and past hazgrav members
 nav: true
 nav_order: 7
