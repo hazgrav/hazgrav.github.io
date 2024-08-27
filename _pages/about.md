@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Gravitational Wave Astronomy at Oregon State University
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>College of Science</p>
+    <p>301 Weniger Hall</p>
+    <p>Corvallis, OR 97331-6507</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The hazgrav research group, headed by [Dr. Jeffrey Hazboun](https://jeffreyhazboun.github.io/), is a member of the North American Nanohertz Observatory for Graviational Waves ([NANOGrav](nanograv.org)) scientific collaboration. Comprising a collaborative network of astrophysicists and astronomers, NANOGrav is dedicated to exploring the universe's most enigmatic phenomena through the study of pulsars.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Pulsars, celestial objects emitting regular pulses of radiation, serve as cosmic timekeepers. NANOGrav leverages the precision of these pulsars to detect and analyze gravitational waves—ripples in spacetime caused by the acceleration of massive celestial objects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+By harnessing nanohertz frequencies, NANOGrav aims to unlock the secrets of astrophysical systems, contributing invaluable insights into the nature of black holes, neutron stars, and the fabric of the cosmos itself. This collaborative effort brings together experts from various institutions, fostering innovation, discovery, and a deeper understanding of the fundamental forces shaping our universe.
+
+Embark on a cosmic journey with NANOGrav as we probe the gravitational symphony of the cosmos, one nanohertz at a time.

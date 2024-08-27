@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Hazboun6
+  - davecwright3
+  - KalistaW
+  - jeremy-baier
+  - albertodiazhernandez
+  - peterorndoff
+  - GourlieK
 
-repo_description_lines_max: 2
+repo_description_lines_max: 5
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nanograv/enterprise
+  - nanograv/enterprise_extensions
+  - nanograv/holodeck
+  - Hazboun6/hasasia
+  - nanograv/la_forge
+  - andrea-mitridate/PTArcade
