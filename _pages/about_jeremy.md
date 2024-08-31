@@ -1,4 +1,4 @@
-# Jeremy Baier *(he/him)*
+# Jeremy Baier *(he/him)* - Ph.D. Student
  [https://jeremy-baier.github.io/](https://jeremy-baier.github.io/).
 
  Jeremy is a 3rd year grad student at Oregon State University where he works with Dr. Hazboun on detector characterization and interstellar medium mitigation. Jeremy is currently co-leading the NANOGrav 15 year custom noise project. He is also interested in detector tuning and sensitivity forecasting.
