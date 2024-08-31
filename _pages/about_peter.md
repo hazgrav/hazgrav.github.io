@@ -1,4 +1,4 @@
-# Peter Orndoff - Past B.S. Student
+# Peter Orndoff - Former B.S. Student
 Peter's research focuses on advancing methods to analyze the dark matter power spectra, dark matter over-density statistics, and supermassive black hole binaries (SMBHBs). His engagement in physics research is driven by a deep curiosity about the conditions of the early universe.
 Peter's website: [peterorndoff.space](peterorndoff.space).
 
