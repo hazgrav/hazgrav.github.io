@@ -1,4 +1,4 @@
-# Jeremy Baier _(he/him)_
+# Jeremy Baier _(he/him)_ - Ph.D. Student
 
 [https://jeremy-baier.github.io/](https://jeremy-baier.github.io/).
 
