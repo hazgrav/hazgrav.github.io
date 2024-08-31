@@ -23,4 +23,9 @@ profiles:
     image: group_photos/peter_headshot.jpg
     content: about_peter.md
     image_circular: false # crops the image to make it circular
+
+  - align: right
+    image: group_photos/ian_headshot.jpg
+    content: about_ian.md
+    image_circular: false # crops the image to make it circular
 ---
