@@ -15,8 +15,18 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
+    image: group_photos/daniel_headshot.jpg
+    content: about_daniel.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
     image: group_photos/jeremy_headshot.jpg
     content: about_jeremy.md
+    image_circular: false # crops the image to make it circular
+
+  - align: right
+    image: group_photos/kalista_headshot.jpg
+    content: about_kalista.md
     image_circular: false # crops the image to make it circular
 
   - align: left
@@ -25,11 +35,16 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
+    image: group_photos/albert_headshot.jpg
+    content: about_albert.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
     image: group_photos/peter_headshot.jpg
     content: about_peter.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
+  - align: right
     image: group_photos/ian_headshot.jpg
     content: about_ian.md
     image_circular: false # crops the image to make it circular
