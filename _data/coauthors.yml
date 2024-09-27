@@ -1,3 +1,15 @@
 "wright":
   - firstname: ["David", "D.", "David C.", "D. C.", "Dave", "Dave C."]
-  - url: https://davecwright.org
+    url: https://davecwright.org
+
+"baier":
+  - firstname: ["Jeremy", "J.", "Jeremy G.", "J. G."]
+    url: https://github.com/jeremy-baier
+
+"giblin":
+  - firstname: ["John", "John T.", "Tom"]
+    url: https://cosmo.kenyon.edu/tom.html
+
+"romano":
+  - firstname: ["Joseph", "Joe", "Joseph D."]
+    url: https://www.utrgv.edu/physics/people/faculty/joe-romano/index.htm
