@@ -9,4 +9,4 @@ B.S. Computational Physics Oregon State University
 
 ## Research Interests
 
-Dark Matter, Gravitational Waves, SMBHBs, Early Universe Conditionss
+Dark Matter, Gravitational Waves, SMBHBs, Early Universe Conditions
