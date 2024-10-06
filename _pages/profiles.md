@@ -40,11 +40,16 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: group_photos/peter_headshot.jpg
-    content: about_peter.md
+    image: group_photos/kyle_headshot.png
+    content: about_kyle.md
     image_circular: false # crops the image to make it circular
 
   - align: right
+    image: group_photos/peter_headshot.png
+    content: about_peter.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
     image: group_photos/ian_headshot.jpg
     content: about_ian.md
     image_circular: false # crops the image to make it circular
