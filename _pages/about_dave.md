@@ -2,7 +2,6 @@
 
 Dave works at the intersection of computational astrophysics, gravitational wave astronomy, and cosmology.
 His research focuses on developing new methods to extract information about the early universe, supermassive blackholes, and high-energy physics from gravitational waves.
-Dave's website [https://www.davecwright.org/](https://www.davecwright.org/).
 
 ## Education
 
