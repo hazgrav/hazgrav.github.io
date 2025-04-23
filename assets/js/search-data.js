@@ -435,51 +435,61 @@ ninja.data = [{
           section: "News",},{id: "news-cmb-and-energy-conservation-limits-on-nanohertz-gravitational-waves-by-dave-wright-tom-giblin-and-jeff-hazboun-released-on-arxiv",
           title: 'CMB and energy conservation limits on nanohertz gravitational waves by Dave Wright, Tom...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-sensitivity-curves-for-gwb-anisotropy-in-ptas",
+          title: 'Sensitivity Curves for GWB Anisotropy in PTAs',
+          description: "Isotropic? Maybe? Maybe not...",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/anisotropy/";
+            },},{id: "projects-tools-for-robust-continuous-wave-detection-in-ptas",
+          title: 'Tools for Robust Continuous Wave Detection in PTAs',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/cw_detection_agn/";
+            },},{id: "projects-continuous-gravitational-waves-in-ligo-data",
+          title: 'Continuous Gravitational Waves in LIGO Data',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/cw_ligo/";
+            },},{id: "projects-directional-detection-of-continuous-waves-in-ptas",
+          title: 'Directional Detection of Continuous Waves in PTAs',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/directional_cw/";
+            },},{id: "projects-frankenstat",
+          title: 'FrankenStat',
+          description: "A monstrous PTA data combination",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/frankenstat/";
+            },},{id: "projects-nicer-pulsar-analysis",
+          title: 'NICER Pulsar Analysis',
+          description: "Going beyond radio",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/nicer/";
+            },},{id: "projects-addressing-non-stationary-processes-in-pta-data",
+          title: 'Addressing Non Stationary Processes in PTA data',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/non_stationarity/";
+            },},{id: "projects-gravitational-wave-peep-contributions-to-background-signal-confusion-noise-for-lisa",
+          title: 'Gravitational Wave Peep Contributions to Background Signal Confusion Noise for LISA',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/peeps/";
+            },},{id: "projects-bounds-on-cosmological-gwbs",
+          title: 'Bounds on Cosmological GWBs',
+          description: "Going where no (EM) data has gone before...",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/rule_of_thumb/";
+            },},{id: "projects-variance-in-pta-sensitivity-due-to-uncertainty-in-gwb",
+          title: 'Variance in PTA Sensitivity Due to Uncertainty in GWB',
+          description: "(More) realistic sensitivity curves",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sens_variance/";
+            },},{id: "projects-deriving-the-separatrix-for-a-spinning-secondary-on-a-generic-kerr-orbit",
+          title: 'Deriving the Separatrix for a Spinning Secondary on a Generic Kerr Orbit',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/separatrix/";
             },},{
         id: 'social-github',
         title: 'GitHub',
