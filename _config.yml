@@ -240,6 +240,8 @@ exclude:
   - vendor
   - _books/
   - _pages/books.md
+  - assets/jupyter/blog.ipynb
+  - assets/audio/epicaly-short-113909.mp3
 keep_files:
   - CNAME
   - .nojekyll
