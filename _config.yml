@@ -188,13 +188,15 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
+  annotated-bib:
     output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
+    output: true
+  outreach:
     output: true
 
 # -----------------------------------------------------------------------------
@@ -236,6 +238,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _books/
+  - _pages/books.md
+  - assets/jupyter/blog.ipynb
+  - assets/audio/epicaly-short-113909.mp3
 keep_files:
   - CNAME
   - .nojekyll
@@ -297,11 +303,11 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
+  annotated-bib:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["videos", "pop-sci"] # these tags will be displayed on the front page of your blog
+display_categories: ["outreach"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -431,6 +437,7 @@ enable_tooltips: false # enables automatic tooltip links generated for each sect
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
+enable_outreach_categories: true # enables categorization of outreach into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: true # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.

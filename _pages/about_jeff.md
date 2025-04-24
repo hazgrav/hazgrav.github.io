@@ -8,4 +8,4 @@ Ph.D., Physics, Utah State University
 
 ## Research Interests
 
-TBD
+Connecting theoretical predictions of gravity to astrophysical phenomena through observational relativity
