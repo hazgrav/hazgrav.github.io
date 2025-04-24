@@ -7,7 +7,8 @@ importance: 1
 category: "Workshops"
 related_publications: false
 ---
-GravWISE is the **G**ravitational **W**ave **I**nvestigative **S**cience **E**xperience. 
+
+GravWISE is the **G**ravitational **W**ave **I**nvestigative **S**cience **E**xperience.
 This week-long, hands-on workshop is intended for students transitioning from 2 year to 4 year degree plans.
 
 Housing at Oregon State University and a weekly stipend will be provided to qualified students.

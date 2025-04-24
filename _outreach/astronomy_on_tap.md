@@ -9,4 +9,3 @@ related_publications: False
 ---
 
 Astronomy on Tap is a global phenomenon where professional astronomers give informal science talks in local bars with accompanying pub trivia and interactions with the public.
-
