@@ -11,6 +11,7 @@ Although the cause of this non-stationarity is difficult to pinpoint, it is usef
 This project approaches the problem from a wavelet-based perspective, using the time-frequency localization capabilities of wavelets to detect and characterize non-stationary features in pulsar timing residuals.
 The tool maybe applicable more generally, to non-stationary noise processes in PTA datasets beyond the GWB context.
 The goal is to address the apparent non-stationarity of PTA processes and to complement the existing wavelet-based methods in the literature.
+
 <div class="row justify-content-sm-center">
 <div class="col-sm-6 mt-3 mt-md-0 img-fluid">
 {% include figure.liquid loading="eager" path="assets/img/projects/our_model_nlive5000_ns_anjana.png" max-height="500px" width="auto" title="Upper limits on CW emission from some known pulsars." class="img-fluid rounded z-depth-1" %}

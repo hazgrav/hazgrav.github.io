@@ -21,4 +21,3 @@ The methods developed in this work have been applied to newly discovered, fast-s
 Comparison of the theoretical spin-down upper limit, and measured upper limit on the CW emission from pulsars targeted in 
 <em><a href="https://repo.uni-hannover.de/items/bf8caecf-a655-4467-994b-6561f186cbd2" target="_blank" rel="noopener noreferrer">Ashok (2023).</a></em>
 </div>
-
