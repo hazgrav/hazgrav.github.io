@@ -97,6 +97,11 @@ ninja.data = [{
           description: "Isotropic? Maybe? Maybe not...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/anisotropy/";
+            },},{id: "projects-customized-noise-modelling-for-pulsar-timing",
+          title: 'Customized noise modelling for pulsar timing',
+          description: "Dealing with troublemakers, one pulsar at a time ...",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/customnoise/";
             },},{id: "projects-tools-for-robust-continuous-wave-detection-in-ptas",
           title: 'Tools for Robust Continuous Wave Detection in PTAs',
           description: "",
