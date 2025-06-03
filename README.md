@@ -155,7 +155,6 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://giuseppeperelli.github.io/" target="_blank">★</a>
 <a href="https://shlee-lab.github.io/" target="_blank">★</a>
 <a href="https://devos50.github.io/" target="_blank">★</a>
-<a href="https://kocikowski.com/" target="_blank">★</a>
 <a href="https://vmooers.github.io/" target="_blank">★</a>
 <a href="https://jpfonseca.github.io/" target="_blank">★</a>
 <a href="https://dmitryryumin.github.io/" target="_blank">★</a>
@@ -163,6 +162,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://nishanthjkumar.com/" target="_blank">★</a>
 <a href="https://joszuijderwijk.nl/" target="_blank">★</a>
 <a href="https://d-jiao.github.io/" target="_blank">★</a>
+<a href="https://cbuelt.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
